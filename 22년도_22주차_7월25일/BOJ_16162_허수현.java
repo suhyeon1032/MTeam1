@@ -38,7 +38,6 @@ public class BOJ_16162 {
 		bw.flush();
 		br.close();
 		bw.close();
-
 	}
 
 }
